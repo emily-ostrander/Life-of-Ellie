@@ -14,12 +14,9 @@ credits: true
 
 ## About the Collection
 
-This is a collection representing the life of Ellie. Ellie is a black lab, golden retriever mix. She was born in 2011 and celebrated her 14th birthday in 2025. This collection includes: 
+This is a collection representing the life of Ellie. Ellie is a black labrador, golden retriever mixed dog. She was born in 2011 on a farm in Tipton, Iowa. She had 12 brothers and sisters. Ellie came to live with the McQuiston family in May of 2011. This collection includes: 
 
 - a CSV of collection metadata
-- a folder of JPG images
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+- 15 JPG images from Ellie's life
+ 
 
